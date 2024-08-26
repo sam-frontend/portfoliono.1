@@ -1,0 +1,188 @@
+{
+  "main": {
+    "name": "Sam_Ugo Portfolio",
+    "description": "Hi everyone,welcome to my portfolio website",
+    "image": "ugo.jpg",
+    "bio": "my name is sam,i am a software development engineer and i use html,css,reactjs,nextjs,react-ntive-expo and vue.js to develop web pages and cross mobile applications(ios/android) respectively.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "sam_ug@yahoo.com",
+    "phone": "+2349166215185",
+    "github": "https://github.com/sam-frontend",
+    "project": "https://github.com/sam-frontend",
+    "address": {
+      "street": "(1st Ave)",
+      "city": "(Amuwo)",
+      "state": "(Lagos)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://ugoportfolio3.netlify.app",
+    "resumedownload": "http://ugoportfolio3.netlify.app",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://github.com/sam-frontend",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sam-swdev/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sam-frontend",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Yabatech?",
+        "degree": "ND(in View)",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Rivasult Tech.",
+        "degree": "Web design and dev.(frontend-reactjs/react,native/ui/ux)",
+        "graduated": "March 2013",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "Uziben",
+        "title": "Frontend Intern",
+        "years": "March ",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Wayabank",
+        "title": "Frontend/Qa Inten",
+        "years": "february 2024 - July 2024",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "Vuejs",
+        "level": "40%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "React-native-expo",
+        "level": "55%"
+      },
+      {
+        "name": "Nextjs",
+        "level": "50%"
+      },
+      {
+        "name": "Nodejs-Express",
+        "level": "50%"
+      },
+      {
+        "name": "Product Design(Figma-ui/ux)",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Creative web",
+        "category": "creative",
+        "image": "01.jpg",
+        "url": "https://"
+      },
+      {
+        "title": "Car deals",
+        "category": "car ",
+        "image": "02.jpg",
+        "url": "http://"
+      },
+      {
+        "title": "E-commerce",
+        "category": "mobile app ios/android",
+        "image": "03.jpg",
+        "url": "http://"
+      },
+      {
+        "title": "my portfolio",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://"
+      },
+      {
+        "title": "food app",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Calculator app",
+        "category": "React native mobile calculator app ios/android",
+        "image": "06.jpg",
+        "url": "https://"
+      },
+      {
+        "title": "Flight booking app",
+        "category": "website",
+        "image": "01.jpg",
+        "url": "http://"
+      },
+      {
+        "title": "ToDo Mobile app",
+        "category": "mobile app ios/android",
+        "image": "02.jpg",
+        "url": "http://"
+      },
+      {
+        "title": "ToDo web",
+        "category": "web version",
+        "image": "03.jpg",
+        "url": "http://"
+      },
+      {
+        "title": "Weather Web",
+        "category": "A React based weatger checking website",
+        "image": "04.jpg",
+        "url": "http://"
+      },
+      {
+        "title": "Calender",
+        "category": "(MVP Only) A React ",
+        "image": "05.jpg",
+        "url": "http://m"
+      },
+      {
+        "title": "E-wallet",
+        "category": "mobile app for banking",
+        "image": "06.jpg",
+        "url": "https://"
+      }
+    ]
+  }
+}
